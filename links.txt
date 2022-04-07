@@ -17,4 +17,6 @@ EOM
     --add-repo \
     https://download.docker.com/linux/rhel/docker-ce.repo
     
-    
+    https://download.docker.com/linux/rhel/7/source/stable/Packages/docker-ce-19.03.10-3.el7.src.rpm
+     curl -fsSL https://get.docker.com -o get-docker.sh
+ sudo sh get-docker.sh
